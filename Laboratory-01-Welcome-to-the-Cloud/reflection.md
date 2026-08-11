@@ -1,9 +1,11 @@
 # Reflection
 
-Completing this first laboratory activity gave me a solid introduction to what it means to work as a cloud engineer. I learned that before touching any cloud service, it's essential to be comfortable navigating a Linux environment, since almost all cloud infrastructure runs on Linux-based systems.
+This laboratory activity gave me a clear introduction to the basic responsibilities of a cloud engineer. Before working with cloud services, it is important to first understand how to use a Linux system, since most cloud infrastructure runs on Linux.
 
-Setting up a new user account and understanding basic system commands like `whoami`, `pwd`, `hostname`, `lsb_release`, `lscpu`, `free`, and `df` helped me realize how much information can be gathered about a system just from the command line. This is valuable when managing or troubleshooting real servers.
+Through this activity, I learned how to create a new user account and use basic Linux commands such as `whoami`, `pwd`, `hostname`, `lsb_release`, `lscpu`, `free`, and `df` to check important system information. This showed me how much information can be gathered about a computer system just by using the terminal. This skill is useful for managing and checking servers in real work settings.
 
-I also learned the importance of documentation in a professional setting. Writing clear Markdown files and organizing them properly in a GitHub repository taught me how cloud engineers keep their work transparent, version-controlled, and easy for others (or their future selves) to review.
+This activity also showed the importance of proper documentation. Writing clear Markdown files and organizing them inside a GitHub repository helped me understand how professionals keep their work organized, easy to follow, and easy to review later.
 
-The most challenging part was making sure my GitHub repository structure exactly matched what was required, since small naming or folder mistakes could make the portfolio look disorganized. Overall, this activity built my confidence in using the terminal and GitHub together, which I know will be essential for the more advanced topics coming up this semester, like Docker and Kubernetes.
+The most difficult part of this activity was making sure that the folder and file structure matched exactly what was required. Small mistakes in naming or organization could make the repository look incomplete or unprofessional. This required careful attention to detail.
+
+In conclusion, this activity helped me build confidence in using Linux commands and managing a GitHub repository. These skills will be useful for the more advanced topics in this course, such as Docker and Kubernetes.
