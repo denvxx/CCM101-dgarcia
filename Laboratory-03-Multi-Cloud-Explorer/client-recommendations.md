@@ -49,3 +49,15 @@
 1. **Amazon EC2 with Auto Scaling** – to automatically adjust server capacity based on traffic.
 2. **Amazon S3** – to store product images and files.
 3. **Amazon CloudFront** – to deliver content quickly to customers around the world.
+
+
+## Multi-Cloud Decision Matrix
+
+| Business Requirement | Recommended Platform | Justification |
+|---|---|---|
+| Startup Company | AWS | Offers a free tier and flexible pricing, with services that can scale as the business grows. |
+| Enterprise Organization | AWS | Provides the widest range of services and strong reliability needed for large-scale operations. |
+| Microsoft Environment | Microsoft Azure | Integrates smoothly with existing Microsoft tools like Active Directory and Office 365. |
+| AI / Machine Learning | Google Cloud Platform | Offers strong AI and machine learning tools, many of which were built by Google itself. |
+| Kubernetes Deployment | Google Cloud Platform | Google originally created Kubernetes, making GCP a natural fit for container-based workloads. |
+| Global Web Application | AWS | Has data centers in many regions worldwide, supporting fast performance and automatic scaling. |
