@@ -31,7 +31,7 @@ Google Cloud Platform is the strongest in Artificial Intelligence and Kubernetes
 I would personally choose AWS because it offers the widest variety of services and has strong documentation and community support. This makes it easier to find solutions and learn new tools while working on different types of projects.
 
 
-## Match the Cloud Services
+## Match the Cloud Services 
 
 | Service Category | AWS | Azure | GCP |
 |---|---|---|---|
