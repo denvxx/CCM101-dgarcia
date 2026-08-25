@@ -1,4 +1,4 @@
-# Microsoft Azure Research
+# Microsoft Azure
 
 ## Brief Overview
 Microsoft Azure is a cloud computing platform created by Microsoft. It was launched in 2010 and is widely used by companies that already rely on Microsoft products like Windows Server and Office 365.
