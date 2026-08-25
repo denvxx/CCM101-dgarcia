@@ -1,4 +1,4 @@
-# AWS Research
+# Amazon Web Services
 
 ## Brief Overview
 Amazon Web Services (AWS) is a cloud computing platform created by Amazon. It was launched in 2006 and is known as one of the first and largest cloud providers in the world. It offers a wide range of services for computing, storage, databases, networking, and more.
