@@ -16,3 +16,8 @@ Since this server is small and general-purpose, with only 1 CPU core and under 2
 - **Google Cloud Platform:** This server could be hosted on **Compute Engine**, using a small machine type like `e2-micro`, which is meant for lightweight workloads.
 
 All three options would be able to run this server's operating system and handle its current resource usage, since the server does not require high processing power or large amounts of memory.
+
+## Terminal Output
+<img width="1540" height="912" alt="killercoda-terminal" src="https://github.com/user-attachments/assets/24ecb1a1-1ff4-4ada-8dae-a42eb99af917" />
+
+<img width="1609" height="352" alt="killercoda-terminal-1" src="https://github.com/user-attachments/assets/03516fde-43e4-4b79-94b6-a34de72844b6" />
